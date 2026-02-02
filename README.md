@@ -1,2 +1,5 @@
 # Zava-hr-tools
-[FlowLens Demo] HR management tools — Team: HR Tools, Group: Enterprise Apps
+
+HR management tools
+
+Update 1 by James Chen
